@@ -1,6 +1,6 @@
 /**
  * Author: Quinn Reimer
- * Date: 2018/08/29
+ * Date: 2019/08/29
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,9 @@
 
 int main(int argc, char **argv) {
 
-  printf("Quinn Reimer\n");
+  printf("Quinn\n");
+
+  printf("Mathematics\n");
 
   return 0;
 }
