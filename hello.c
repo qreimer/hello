@@ -14,10 +14,10 @@ int main(int argc, char **argv) {
 
   printf("Mathematics\n");
 
-  prinf("Lydia\n");
+  printf("Lydia\n");
 
   printf("Undeclared\n");
 
-  
+
   return 0;
 }
